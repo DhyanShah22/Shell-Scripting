@@ -1,0 +1,6 @@
+apple 
+bat
+fog
+green
+queen
+zebra
